@@ -1,0 +1,135 @@
+body {
+  color: white;
+  background-color: #219ebc;
+  font-family: "Oswald", sans-serif;
+}
+
+/* nav bar  */
+
+.img-brand {
+  width: 40px;
+}
+.navbar {
+  margin: auto;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.navbar-brand {
+  padding-left: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0px 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: #1fba56;
+}
+
+/* title */
+
+.img-2 {
+  margin-top: 100px;
+}
+.p1 {
+  font-size: 23px;
+  margin-top: 40px;
+  color: white;
+}
+.p2 {
+  margin-top: 40px;
+  color: white;
+}
+.title {
+  padding: 2% 2%;
+}
+.btn1 {
+  margin: 30px 10px;
+}
+.div1 {
+  padding: 150px 0px;
+}
+.div2 {
+  padding: 0px;
+}
+
+/* features */
+
+.p3 {
+  color: white;
+}
+.f-img {
+  width: 50px;
+  padding: 15px 0px;
+}
+#features {
+  padding: 7% 1%;
+  background-color: #fff;
+}
+.feature-box {
+  text-align: center;
+  padding: 3% 1%;
+}
+h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: black;
+}
+h2 {
+  color: black;
+}
+.h22 {
+  color: black;
+  font-weight: bold;
+  padding-top: 20px;
+}
+p {
+  color: #8f8f8f;
+  font-size: 1.2rem;
+}
+.fa-solid {
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+.fa-solid:hover {
+  color: #ff4c68;
+}
+
+/* pricing  */
+
+.pricing-column {
+  padding: 4% 2%;
+}
+.padd {
+  padding: 2% 2%;
+  background-color: #eaebeb;
+}
+
+/* footer */
+
+.foot {
+  padding: 5% 15%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.a {
+  color: white;
+  font-size: 1.5rem;
+  line-height: 3;
+  font-weight: 300;
+  padding: 0px 10px;
+  text-decoration: none;
+}
+.a:hover {
+  color: #1fba56;
+}
